@@ -1,0 +1,8 @@
+﻿
+.input-validation-error {
+    border-color: #f5325c !important;
+}
+
+.field-validation-error{
+    width: inherit;
+}

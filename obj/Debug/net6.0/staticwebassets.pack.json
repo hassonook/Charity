@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Charity.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Charity.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-dark.css.map",
+      "PackagePath": "staticwebassets\\css\\app-dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\css\\app.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap-dark.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap-dark.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\icons.css.map",
+      "PackagePath": "staticwebassets\\css\\icons.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\inter-bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter-bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-light.woff",
+      "PackagePath": "staticwebassets\\fonts\\inter-light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter-light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\inter-medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter-medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\inter-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\inter-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\typicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\typicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\typicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\typicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\typicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\typicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\fonts\\typicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\typicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\images\\auth-bg.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\images\\logo-sm-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-sm-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Charity\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Charity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Charity.props",
+      "PackagePath": "build\\Charity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Charity.props",
+      "PackagePath": "buildMultiTargeting\\Charity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Charity.props",
+      "PackagePath": "buildTransitive\\Charity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
